@@ -120,10 +120,6 @@ function generateRowHTML(video) {
             </div>` 
 }
 
-  //Student: Joao Victor Fernandes dos Santos
-  //Student id: jvfernandes-dos-sant 
-  //Student Number: 155858194  
-  //Section: WEB 222 - NGG
 
 let all_videos = '';
 function ShowAll(){
